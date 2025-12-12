@@ -1,0 +1,3 @@
+teodor;drammen;pc,amir,keybord,mus,hus,seng,,amir,amir,amir
+3;drammen;a,a,a,a,a,a,a,a,a,a
+a;a;a,a,a,a,a,a,a,a,a,avslutt
